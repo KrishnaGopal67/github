@@ -4,10 +4,14 @@ const dob = "03/05/2006";
 function sayName() {
   console.log(`My Name is +`);
 }
-function newfn(){
-    console.log("hey ")
+function newfn() {
+  console.log("hey ");
 }
-function newfeature(){
-    console.log("New feature")
-    "this is again new feature"
+function newfeature() {
+  console.log("New feature");
+  ("this is again new feature");
+}
+function newfeatureB() {
+  console.log("New feature");
+  ("this is again new feature B");
 }
