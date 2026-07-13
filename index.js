@@ -4,10 +4,9 @@ const dob = "03/05/2006";
 function sayName() {
   console.log(`My Name is +`);
 }
-<<<<<<< HEAD
 function newfn(){
     console.log("hey ")
 }
-=======
-'hello'
->>>>>>> parent of 8e33520 (deleted above18function)
+function newfeature(){
+    console.log("New feature")
+}
