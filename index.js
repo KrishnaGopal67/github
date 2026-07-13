@@ -1,5 +1,5 @@
 const age = 24;
-const name1 = "Krishna Gopal";
+const name1 = "Krishna Gopal new";
 const dob = "03/05/2006";
 function sayName() {
   console.log(`My Name is +`);
