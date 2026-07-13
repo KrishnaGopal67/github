@@ -9,4 +9,5 @@ function newfn(){
 }
 function newfeature(){
     console.log("New feature")
+    "this is again new feature"
 }
