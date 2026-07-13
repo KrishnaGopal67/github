@@ -23,4 +23,6 @@ function newfeaturec() {
   console.log("New feature");
   "this is again new feature B";
   "this is again new feature c";
+
+  "this is again new feature d";
 }
